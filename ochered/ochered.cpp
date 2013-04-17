@@ -64,7 +64,7 @@ void Ochered::add()
 	else
 		cout<<"\nzapolneno\n"<<endl;
 }
-void Ochered::take() //удаление элемента
+void Ochered::take() 
 {
 	if (nE())
 	{
@@ -75,7 +75,7 @@ void Ochered::take() //удаление элемента
 	else
 		cout<<"\nzapolneno\n"<<endl;
 }
-void Ochered::print() //вывод элемента
+void Ochered::print() 
 {
 	if (nE())
 	{
